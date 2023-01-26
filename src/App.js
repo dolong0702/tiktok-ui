@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import Buttom from '~/components/Button';
 import './App.css';
-
+console.log('hello các bạn')
 function App() {
   return (
     <div className="App">
